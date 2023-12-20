@@ -42,7 +42,6 @@ I am a Ph.D. candidate in Beihang University under the supervision of <a href="h
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2021</div><img src='images/bmvc21.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Student-Teacher Feature Pyramid Matching for Anomaly Detection](https://www.bmvc2021-virtualconference.com/assets/papers/1273.pdf)
@@ -51,17 +50,7 @@ I am a Ph.D. candidate in Beihang University under the supervision of <a href="h
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.09 - now*, School of Computer Science and Engineering, Beihang University
+- *2018.09 - 2019.07*, Department of Computer Science, City University of Hong Kong
+- *2014.09 - 2018.06*, School of Software, Beihang University
