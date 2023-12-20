@@ -46,7 +46,10 @@ I am a Ph.D. candidate in Beihang University under the supervision of <a href="h
 <div class='paper-box-text' markdown="1">
 [Student-Teacher Feature Pyramid Matching for Anomaly Detection](https://www.bmvc2021-virtualconference.com/assets/papers/1273.pdf)
   
-**Guodong Wang**, <a href="https://scholar.google.com/citations?user=eFoLdbQAAAAJ&hl=en&oi=sra">Shumin Han*</a>, <a href="https://scholar.google.com/citations?user=1wzEtxcAAAAJ&hl=en&oi=sra">Errui Ding</a>, <a href="http://irip.buaa.edu.cn/dihuang/index.html">Di Huang</a>
+**Guodong Wang***, <a href="https://scholar.google.com/citations?user=eFoLdbQAAAAJ&hl=en&oi=sra">Shumin Han*</a>, <a href="https://scholar.google.com/citations?user=1wzEtxcAAAAJ&hl=en&oi=sra">Errui Ding</a>, <a href="http://irip.buaa.edu.cn/dihuang/index.html">Di Huang</a>
+
+<strong><span class='show_paper_citations' data='9xCdnoQAAAAJ:Se3iqnhoufwC'></span></strong>
+
 </div>
 </div>
 
