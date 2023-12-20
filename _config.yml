@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guodong WANG (王国栋)"
+title                    : "Guodong WANG"
 description              : "Ph.D Candidate @ Beihang University"
 repository               : "gdwang08/gdwang08.github.io"
 google_scholar_stats_use_cdn : true
