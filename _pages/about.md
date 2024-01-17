@@ -21,6 +21,7 @@ I am a Ph.D. candidate in Beihang University under the supervision of <a href="h
 
 # 🔥 News
 - *2024.01.16*: &nbsp;🎉🎉 One paper is accepted to <a href="https://iclr.cc/Conferences/2024">ICLR 2024</a> <font color=Red>(Spotlight)</font>.
+- *2023.07.14*: &nbsp;🎉🎉 One paper is accepted to <a href="https://iccv2023.thecvf.com/">ICCV 2023</a>.
 
 # 📝 Publications 
 
