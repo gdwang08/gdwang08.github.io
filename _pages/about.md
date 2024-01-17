@@ -20,9 +20,20 @@ redirect_from:
 I am a Ph.D. candidate in Beihang University under the supervision of <a href="http://irip.buaa.edu.cn/dihuang/index.html">Di Huang</a> and <a href="http://irip.buaa.edu.cn/yhwang/index.html">Yunhong Wang</a>, and also one of members of <a href="http://irip.buaa.edu.cn/">IRIP Laboratory</a>, School of Computer Science and Engineering, Beihang University. I received bachelor degree in Beihang University and master degree in City University of Hong Kong, respectively. Currently, I am focusing on computer vision, pattern recognition and visual anomaly detection.
 
 # 🔥 News
-- *2023.07.14*: &nbsp;🎉🎉 One paper is accepted to <a href="https://iccv2023.thecvf.com">ICCV 2023</a>.
+- *2024.01.16*: &nbsp;🎉🎉 One paper is accepted to <a href="https://iclr.cc/Conferences/2024">ICLR 2024</a> <font color=Red>(Spotlight)</font>.
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/iclr24.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Rotation Has Two Sides: Evaluating Data Augmentation for Deep One-class Classification](https://openreview.net/forum?id=Ad81awoBVS) <font color=Red>(Spotlight)</font>
+
+**Guodong Wang**, <a href="http://irip.buaa.edu.cn/yhwang/index.html">Yunhong Wang</a>, Xiuguo Bao, <a href="http://irip.buaa.edu.cn/dihuang/index.html">Di Huang</a>
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/iccv23.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
